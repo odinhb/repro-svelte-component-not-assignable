@@ -1,0 +1,14 @@
+{
+  "name": "repro-svelte-component-not-assignable",
+  "version": "0.0.0",
+  "description": "repro for bug",
+  "scripts": {
+    "example": "svelte-check --workspace ./src --tsconfig ./tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svelte": "3.55.1",
+    "svelte-check": "3.0.3"
+  }
+}
