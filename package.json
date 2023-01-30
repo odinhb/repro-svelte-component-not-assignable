@@ -9,6 +9,6 @@
   "license": "ISC",
   "dependencies": {
     "svelte": "3.55.1",
-    "svelte-check": "3.0.3"
+    "svelte-check": "https://github.com/odinhb/svelte-language-tools/releases/download/3.0.3-watch-tsx-tryit/svelte-check.tar.gz"
   }
 }
